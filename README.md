@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+My name is Jerry and I'm starting my cloud engineering journey
 <!--
 **rsjerry8/rsjerry8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
